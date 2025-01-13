@@ -18,7 +18,7 @@
 
 
 
-### 🔗 Project Link: [PlayStation Store](https://play-station-store-0725.web.app/) 
+###  Project Link: https://play-station-store-0725.web.app
 
 
 
