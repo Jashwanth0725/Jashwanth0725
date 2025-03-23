@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🎓 Recent Graduate in Information Technology from Anurag University (B.Tech, 2024)<br>💻 Aspiring Full-Stack Developer | Currently mastering the MERN Stack<br>✨ Turning bugs into features since 2024</p>
+<p align="left">🎓 Recent Graduate in Information Technology from Anurag University (B.Tech, 2024)<br>💻 Aspiring Full-Stack Developer | Currently working on my personal project<br>✨ Turning bugs into features since 2024</p>
 
 ###
 
