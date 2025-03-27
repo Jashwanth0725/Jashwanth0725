@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 Currently mastering the MERN Stack<br>🎯 Goals: Build impactful projects and secure a high-paying job<br>🎲 Fun fact: A fresher ready to debug life's challenges!Currently working on a Ai Saas project : Snap-Tune<br></p>
+<p align="left">✨ Creating bugs since 2024<br>📚 Currently mastering the MERN Stack<br>🎯 Goals: Build impactful projects and secure a high-paying job<br>🎲 Fun fact: A fresher ready to debug life's challenges!<br>😁 Currently working on a AI Saas project : Snap-Tune<br></p>
 
 ###
 
