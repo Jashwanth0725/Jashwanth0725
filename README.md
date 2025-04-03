@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm **TANDAMALLA JASHWANTH SAI**, a passionate developer with a knack for building engaging web applications and exploring the realms of software development. I love turning ideas into reality and continuously learning new technologies to enhance my skills.
+I'm **JASHWANTH SAI TANDAMALLA**, a passionate developer with a knack for building engaging web applications and exploring the realms of software development. I love turning ideas into reality and continuously learning new technologies to enhance my skills.
 
 ## About Me
 
