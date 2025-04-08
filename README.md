@@ -12,11 +12,11 @@ Java | Html | CSS | React | Nodejs | Express | Git | GitHub | MySql | MongoDB | 
 
 ## Top Projects
 
-- [**Snap-Tune**](https://github.com/Jashwanth0725/Snap-Tune): A music streaming application built to enhance your listening experience. (Stars: 0, Language: JavaScript)
-- [**Portfolio**](https://github.com/Jashwanth0725/portfolio): My personal portfolio website showcasing my projects and skills. (Stars: 0, Language: TypeScript)
-- [**Play-Station-Store-MERN**](https://github.com/Jashwanth0725/Play-Station-Store-MERN): A responsive e-commerce website built with the MERN stack for buying PlayStation games and accessories. (Stars: 2, Language: JavaScript)
-- [**Amazon-Clone**](https://github.com/Jashwanth0725/Amazon-Clone): An e-commerce platform mimicking Amazon's features with a focus on product search, cart management, and user authentication. (Stars: 0, Language: JavaScript)
-- [**Auroma_Aura**](https://github.com/Jashwanth0725/Auroma_Aura): A full-stack MERN project designed to provide a personalized fragrance experience through AI-driven recommendations. (Stars: 0, Language: JavaScript)
+- [**Snap-Tune**](https://github.com/Jashwanth0725/Snap-Tune): A music streaming application built to enhance your listening experience. (Language: JavaScript)
+- [**Portfolio**](https://github.com/Jashwanth0725/portfolio): My personal portfolio website showcasing my projects and skills. (Language: TypeScript)
+- [**Play-Station-Store-MERN**](https://github.com/Jashwanth0725/Play-Station-Store-MERN): A responsive e-commerce website built with the MERN stack for buying PlayStation games and accessories. (Language: JavaScript)
+- [**Amazon-Clone**](https://github.com/Jashwanth0725/Amazon-Clone): An e-commerce platform mimicking Amazon's features with a focus on product search, cart management, and user authentication. (Language: JavaScript)
+- [**Auroma_Aura**](https://github.com/Jashwanth0725/Auroma_Aura): A full-stack MERN project designed to provide a personalized fragrance experience through AI-driven recommendations. (Language: JavaScript)
 
 ## GitHub Graph
 
@@ -35,7 +35,3 @@ Java | Html | CSS | React | Nodejs | Express | Git | GitHub | MySql | MongoDB | 
 - Pushed updates to **first-contributions** repository on March 28, 2025.
 - Opened a pull request to merge my name into the contributors list on **first-contributions** on March 28, 2025.
 - Contributed to discussions on open-source projects.
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/aa886544400788bb825d0a1a9cd986e68c56d6b79d8edf2e1cc1dcf3b18369ea/68747470733a2f2f7474686e2e707974686f6e616e7977686572652e636f6d3f7468656d653d6461726b?theme=dark&spin=true&rainbow=false&scan=false" alt="Widget with the current Spotify song"  />
-</div>
