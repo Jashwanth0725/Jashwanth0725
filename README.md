@@ -13,10 +13,12 @@ Java | Html | CSS | React | Nodejs | Express | Git | GitHub | MySql | MongoDB | 
 ## Top Projects
 
 - [**Snap-Tune**](https://github.com/Jashwanth0725/Snap-Tune): An AI-powered SaaS that instantly generates smart, creative captions from a single image — perfect for social media users, creators, and marketers who want engaging content in seconds (Language: Typescript)
+  
 - [**Portfolio**](https://github.com/Jashwanth0725/portfolio): My personal portfolio website showcasing my projects and skills. (Language: TypeScript)
+  
 - [**Play-Station-Store-MERN**](https://github.com/Jashwanth0725/Play-Station-Store-MERN): A responsive e-commerce website built with the MERN stack for buying PlayStation games and accessories. (Language: JavaScript)
+  
 - [**Amazon-Clone**](https://github.com/Jashwanth0725/Amazon-Clone): An e-commerce platform mimicking Amazon's features with a focus on product search, cart management, and user authentication. (Language: JavaScript)
-- 
 ## GitHub Graph
 
 <div align="center">
